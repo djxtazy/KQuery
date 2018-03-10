@@ -8,64 +8,6 @@ namespace KQueryTest
     public class UnitTest1
     {
         [TestMethod]
-        public void CheckIfMemberOfSecurityGroup()
-        {
-            string[] args = { "+SG", "AF-C-eBuilder,AF-C-Domain Computers" };
-
-            // assert
-            int expected = 0;
-
-            // actual
-            int actual = Program.Main(args);
-
-            Assert.AreEqual(expected, actual);
-        }
-
-        [TestMethod]
-        public void CheckIfMemberOfSecurityGroup2()
-        {
-            string[] args = { "+SG", "AF-C-eBuilder,AF-C-Random Group" };
-
-            // assert
-            int expected = 1;
-
-            // actual
-            int actual = Program.Main(args);
-
-            Assert.AreEqual(expected, actual);
-        }
-
-        [TestMethod]
-        public void CheckIfNotMemberOfSecurityGroup()
-        {
-            string[] args = { "-SG", "AF-C-Random Group" };
-
-            // assert
-            int expected = 0;
-
-            // actual
-            int actual = Program.Main(args);
-
-            Assert.AreEqual(expected, actual);
-
-        }
-
-        [TestMethod]
-        public void CheckIfNotMemberOfSecurityGroup2()
-        {
-            string[] args = { "-SG", "AF-Random Groups,AF-C-Domain Computers" };
-
-            // assert
-            int expected = 1;
-
-            // actual
-            int actual = Program.Main(args);
-
-            Assert.AreEqual(expected, actual);
-
-        }
-
-        [TestMethod]
         public void CheckComputerName()
         {
             string[] args = { "+CN", "AF-154649" };
