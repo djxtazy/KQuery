@@ -1,0 +1,13 @@
+\\umaaffp\users\axie\visual studio 2015\Projects\CompareVersions\CompareVersions\bin\Debug\CompareVersions.exe.config
+\\umaaffp\users\axie\visual studio 2015\Projects\CompareVersions\CompareVersions\bin\Debug\CompareVersions.exe
+\\umaaffp\users\axie\visual studio 2015\Projects\CompareVersions\CompareVersions\bin\Debug\CompareVersions.pdb
+\\umaaffp\users\axie\visual studio 2015\Projects\CompareVersions\CompareVersions\obj\Debug\CompareVersions.csprojResolveAssemblyReference.cache
+\\umaaffp\users\axie\visual studio 2015\Projects\CompareVersions\CompareVersions\obj\Debug\CompareVersions.exe
+\\umaaffp\users\axie\visual studio 2015\Projects\CompareVersions\CompareVersions\obj\Debug\CompareVersions.pdb
+I:\Visual Studio 2015\Projects\CompareVersions\CompareVersions\bin\Debug\CompareVersions.exe.config
+I:\Visual Studio 2015\Projects\CompareVersions\CompareVersions\obj\Debug\CompareVersions.exe
+I:\Visual Studio 2015\Projects\CompareVersions\CompareVersions\obj\Debug\CompareVersions.pdb
+I:\Visual Studio 2015\Projects\CompareVersions\CompareVersions\bin\Debug\CompareVersions.exe
+I:\Visual Studio 2015\Projects\CompareVersions\CompareVersions\bin\Debug\CompareVersions.pdb
+I:\Visual Studio 2015\Projects\CompareVersions\CompareVersions\obj\Debug\CompareVersions.csprojResolveAssemblyReference.cache
+I:\Visual Studio 2015\Projects\CompareVersions\CompareVersions\bin\Debug\KQuery.exe.config

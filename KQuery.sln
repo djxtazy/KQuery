@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KQuery", "CompareVersions\KQuery.csproj", "{DFA790C8-07A1-4429-ADA2-A0A7118A86BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KQueryTest", "KQueryTest\KQueryTest.csproj", "{49829264-C6E7-4A93-9E6D-EFD229F94E56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA790C8-07A1-4429-ADA2-A0A7118A86BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA790C8-07A1-4429-ADA2-A0A7118A86BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA790C8-07A1-4429-ADA2-A0A7118A86BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA790C8-07A1-4429-ADA2-A0A7118A86BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49829264-C6E7-4A93-9E6D-EFD229F94E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49829264-C6E7-4A93-9E6D-EFD229F94E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49829264-C6E7-4A93-9E6D-EFD229F94E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49829264-C6E7-4A93-9E6D-EFD229F94E56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F81AA46F-7DF0-4F3A-9D49-92F9575AFA36}
+	EndGlobalSection
+EndGlobal

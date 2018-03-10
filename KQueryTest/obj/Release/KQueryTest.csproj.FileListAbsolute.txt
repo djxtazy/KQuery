@@ -1,0 +1,16 @@
+I:\Visual Studio 2015\Projects\CompareVersions\KQueryTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+I:\Visual Studio 2015\Projects\CompareVersions\KQueryTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+I:\Visual Studio 2015\Projects\CompareVersions\KQueryTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+I:\Visual Studio 2015\Projects\CompareVersions\KQueryTest\bin\Release\KQueryTest.dll
+I:\Visual Studio 2015\Projects\CompareVersions\KQueryTest\bin\Release\KQueryTest.pdb
+I:\Visual Studio 2015\Projects\CompareVersions\KQueryTest\bin\Release\KQuery.exe
+I:\Visual Studio 2015\Projects\CompareVersions\KQueryTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+I:\Visual Studio 2015\Projects\CompareVersions\KQueryTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+I:\Visual Studio 2015\Projects\CompareVersions\KQueryTest\bin\Release\KQuery.pdb
+I:\Visual Studio 2015\Projects\CompareVersions\KQueryTest\bin\Release\KQuery.exe.config
+I:\Visual Studio 2015\Projects\CompareVersions\KQueryTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+I:\Visual Studio 2015\Projects\CompareVersions\KQueryTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+I:\Visual Studio 2015\Projects\CompareVersions\KQueryTest\obj\Release\KQueryTest.csprojResolveAssemblyReference.cache
+I:\Visual Studio 2015\Projects\CompareVersions\KQueryTest\obj\Release\KQueryTest.csproj.CoreCompileInputs.cache
+I:\Visual Studio 2015\Projects\CompareVersions\KQueryTest\obj\Release\KQueryTest.dll
+I:\Visual Studio 2015\Projects\CompareVersions\KQueryTest\obj\Release\KQueryTest.pdb

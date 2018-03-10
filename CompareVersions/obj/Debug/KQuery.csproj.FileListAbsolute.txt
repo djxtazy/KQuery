@@ -1,0 +1,7 @@
+I:\Visual Studio 2015\Projects\CompareVersions\CompareVersions\bin\Debug\KQuery.exe.config
+I:\Visual Studio 2015\Projects\CompareVersions\CompareVersions\bin\Debug\KQuery.exe
+I:\Visual Studio 2015\Projects\CompareVersions\CompareVersions\bin\Debug\KQuery.pdb
+I:\Visual Studio 2015\Projects\CompareVersions\CompareVersions\obj\Debug\KQuery.exe
+I:\Visual Studio 2015\Projects\CompareVersions\CompareVersions\obj\Debug\KQuery.pdb
+I:\Visual Studio 2015\Projects\CompareVersions\CompareVersions\obj\Debug\KQuery.csprojResolveAssemblyReference.cache
+I:\Visual Studio 2015\Projects\CompareVersions\CompareVersions\obj\Debug\KQuery.csproj.CoreCompileInputs.cache
